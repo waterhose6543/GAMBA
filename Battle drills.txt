@@ -1,0 +1,141 @@
+﻿Hey everyone!
+
+New round of battle drills is starting this reset. The map is the same as before so not much has changed. I have updated the teams a bit according to some of the data we gathered.
+
+
+The side distribution list: 
+
+
+Note that our progress depends a lot on those at role A and how they perform. Please keep your passage teams solely for passages.
+
+
+Top:
+* PetSama A
+* AzureBen A
+* yunnie A
+
+   * phrophyth B
+   * HITCH B
+   * 于言诺 B
+   * S1NFANQ B
+Bottom:
+   * nunun A
+   * 卑鄙的继承者 A
+   * 阳光雨A
+
+      * Microwave B
+      * Waterhose B
+      * Yun B
+      * 菜菜馍 B
+Left:
+      * Rys A
+      * Nyneve A
+      * 鸡蛋仔 A
+
+
+      * zell B
+      * Syndicate man B
+      * Arya B
+      * Grield B
+      * DJCannabis B
+Right:
+      * Jamerlin A
+      * Ba3rTii A
+      * 月湖的倒影 A
+
+
+      * Rakenas B
+      * 周子译 B
+      * EggLy B
+      * Wanderer B
+      * 遗迹的烛光 B
+Role A: Only passage teams + a boss/miniboss team once you unlock the extra 5 slots
+Role B: 1 Tower team, 1 Miniboss team + 1 Boss team (add once you unlock the extra slots). Your tower team should be able to 2 shot a tower.
+
+
+-Map explanations- (the quality isn't as good since im away from home and only have a laptop with me)
+
+I know the picture looks a bit confusing but let me explain:
+
+0 - LIGHT BLUE: Where we start
+
+1 - RED: The first priority path to be cleared. These towers have the lowest HP and each of these tower clears give +5 levels. Not only will we stack on easy levels but also connect each side because once connected we will gain each other's buffs.
+
+2 - YELLOW: These towers have the second most HP but nothing like the blue towers. They will be focused after the red ones and they give +15 levels.
+
+3 - BLUE: The towers that give buffs. All of us will select "Energy flow" from the bottom one and "Moment of glory" from the top one. We focus on these as magic damage is stronger than physical defense this season. These towers are the hardest to kill and the last in the tower priority. They give +1 level. 
+
+4 - GREEN: Minibosses and the remaining passages. Strategies for both of the bosses:
+
+
+      * Brutus: Hero placement is more important than who you bring. Have your tank on the top right side of the map and the rest of the team bottom left. This makes him not able to draw everyone into his ult.
+
+
+
+      * Odie: Team composition: 1 tank (shielder), 1 healer and 3 DPS (or 2 DPS and support). Shields are very important against Odie. This means bringing Koko (good at tanking as well), Korin and Lucius are advised. Florabelle can help stall (shields to summons but do NOT slot her as a tank) and at the same time Granny is said to be surprisingly good at tanking.
+
+
+5 - PINK: The main boss. Said to be easier than the minibosses. Shields are important here as otherwise your team will get stunned. 
+
+This map pathing will NOT be as important after we kill the main boss for the first time as the levels from the towers remain and we cannot get them again. This means linking up is the highest priority and then immediately working towards the minibosses.
+
+
+
+  
+
+
+
+
+
+-Formations- 
+
+Faction bonus is important as it provides important buffs, Mythic+ and above is ALWAYS favoured over Mythic and below so in cases where you have a higher invested alternative hero than the one in the recommended then choose the higher tier one. 
+
+The hypogeans and celestials need to be M+ or higher to be usable. Cassadee's, Shakir's and Temesia's signature item (EX weapon) needs to be +10, but if you do not have a better alternative then they are still viable.
+
+
+Passages: A team of 3 heroes for fast and efficient clearance.
+
+Recommended teams:
+         * Parisa - Eironn - Lyca
+         * Viperian - Carolina - Florabelle
+         * Temesia - Cassadee - Arden
+         * Cecia - Shakir - Rhys
+         * Mirael - Rowan - Odie
+
+Alternative heroes: Scarlita, Thoran, Igor, Bryon, Smokey, Marilee, Damian, Vala, Korin, Seth, Kruger
+
+Towers: Form a team that focuses on dealing AOE damage Recommended teams:
+            * Eironn - Carolina - Arden - Damian - Parisa/Viperian
+            * Scarlita - Cassadee - Temesia - Florabelle - Korin
+            * Smokey - Koko - Odie - Vala- Thoran
+            * Rowan - Parisa - Cecia - Eironn - Granny
+Viperian, Rhys and Dionel are also good choices.
+
+
+
+Minibosses: There is honestly not a lot of data found for these. As earlier mentioned, hero placement is important against Brutus miniboss and to have shields against Odie. 
+
+
+Since we will be focusing 1 miniboss at a time, you can try to have teams that work for both of the bosses. Test with artifacts, stormcaller should perform well with 2 magic casters.
+
+
+
+
+
+
+Nonetheless we've tried to come up with some recommendations:
+
+Brutus: (tank top right, everyone else bottom left)
+            * Carolina - Florabelle - Damian - Arden - Shakir (any tank/tanky hero works that has self sustain)
+            * Korin - Kruger (tank) - Shakir/Temesia - Reinier - Alsa/Marilee
+Odie: (2/3 DPS, 1 Tank, 1 Healer !SHIELD NEEDED!)
+            * Koko (shield + tank) - Florabelle - Damian (Granny if koko used as shield supp) - Arden - Carolina
+            * Smokey - Koko - Cassadee - Odie - Alsa (Thoran if you need both Smokey and Koko as supports)
+            * Lucius - Vala - Rowan - Marilee - Alsa (or any other DPS)
+
+
+
+
+Main boss: Recommended teams: (Shield needed)
+            * Koko/Korin - Odie - Alsa/Marilee - Smokey - Reinier (swap with kruger if not M+)
